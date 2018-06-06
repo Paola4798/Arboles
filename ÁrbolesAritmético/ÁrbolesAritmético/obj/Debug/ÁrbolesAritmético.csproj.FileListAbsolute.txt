@@ -1,0 +1,19 @@
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ÁrbolesAritmético\ÁrbolesAritmético\bin\Debug\ÁrbolesAritmético.exe.config
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ÁrbolesAritmético\ÁrbolesAritmético\bin\Debug\ÁrbolesAritmético.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ÁrbolesAritmético\ÁrbolesAritmético\bin\Debug\ÁrbolesAritmético.pdb
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ÁrbolesAritmético\ÁrbolesAritmético\obj\Debug\ÁrbolesAritmético.csprojResolveAssemblyReference.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ÁrbolesAritmético\ÁrbolesAritmético\obj\Debug\ÁrbolesAritmético.Form1.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ÁrbolesAritmético\ÁrbolesAritmético\obj\Debug\ÁrbolesAritmético.Properties.Resources.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ÁrbolesAritmético\ÁrbolesAritmético\obj\Debug\ÁrbolesAritmético.csproj.GenerateResource.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ÁrbolesAritmético\ÁrbolesAritmético\obj\Debug\ÁrbolesAritmético.csproj.CoreCompileInputs.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ÁrbolesAritmético\ÁrbolesAritmético\obj\Debug\ÁrbolesAritmético.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ÁrbolesAritmético\ÁrbolesAritmético\obj\Debug\ÁrbolesAritmético.pdb
+C:\Users\Paola Sandoval\Desktop\ÁrbolesAritmético\ÁrbolesAritmético\bin\Debug\ÁrbolesAritmético.exe.config
+C:\Users\Paola Sandoval\Desktop\ÁrbolesAritmético\ÁrbolesAritmético\bin\Debug\ÁrbolesAritmético.exe
+C:\Users\Paola Sandoval\Desktop\ÁrbolesAritmético\ÁrbolesAritmético\bin\Debug\ÁrbolesAritmético.pdb
+C:\Users\Paola Sandoval\Desktop\ÁrbolesAritmético\ÁrbolesAritmético\obj\Debug\ÁrbolesAritmético.csprojResolveAssemblyReference.cache
+C:\Users\Paola Sandoval\Desktop\ÁrbolesAritmético\ÁrbolesAritmético\obj\Debug\ÁrbolesAritmético.Form1.resources
+C:\Users\Paola Sandoval\Desktop\ÁrbolesAritmético\ÁrbolesAritmético\obj\Debug\ÁrbolesAritmético.Properties.Resources.resources
+C:\Users\Paola Sandoval\Desktop\ÁrbolesAritmético\ÁrbolesAritmético\obj\Debug\ÁrbolesAritmético.csproj.GenerateResource.Cache
+C:\Users\Paola Sandoval\Desktop\ÁrbolesAritmético\ÁrbolesAritmético\obj\Debug\ÁrbolesAritmético.exe
+C:\Users\Paola Sandoval\Desktop\ÁrbolesAritmético\ÁrbolesAritmético\obj\Debug\ÁrbolesAritmético.pdb
